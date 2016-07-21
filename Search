@@ -1,0 +1,10 @@
+Chào Cô,
+Theo như em tìm hiểu thì đúng là với int thì chỉ có 5 bit, còn long là 6 bit được cho phép dịch chuyển phải.
+Ngoài những gì đã học, em còn thấy có loại dịch chuyển vòng (có nhớ). 
+ + Kiểu dữ liệu  byte được hàm ý chuyển thành int. Nếu giá trị byte đó là âm, và bit bậc cao nhất là một, 
+thì các số một sẽ được điền vào để lấp đầy các bytes được thêm vào ở kiểu int.
+ + Các phép toán trên thao tác bit là đặt biệt cần thiết trong các ngôn ngữ lập trình bậc thấp như 
+các ngôn ngữ dùng để viết ra các trình cắm thiết bị (drivers), đồ họa bậc thấp, hình thành gói giao thức các truyền thông, và giải mã.
+
+Nguồn:
+https://en.wikipedia.org/wiki/Bitwise_operation#Shifts_in_Java
